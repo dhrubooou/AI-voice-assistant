@@ -74,4 +74,4 @@ It combines:
 | **System Integration** | os, subprocess, threading |
 
 ---
-
+![UI](Screenshot%20(382).png)
